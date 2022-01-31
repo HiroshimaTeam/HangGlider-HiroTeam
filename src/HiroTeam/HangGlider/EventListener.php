@@ -8,7 +8,7 @@
  * ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
  * HangGlider_PM4-HiroTeam By WillyDuGang
  *
- * GitHub: https://github.com/HiroshimaTeam/AreaGuard
+ * GitHub: https://github.com/HiroshimaTeam/HangGlider-HiroTeam
  */
 
 namespace HiroTeam\HangGlider;
