@@ -35,6 +35,7 @@ class HangGliderMain extends PluginBase
             $this->onHangGliderPlayer[$playerName] = true;
         } elseif ($this->isOnHangGlider($player)) {
             $playerEffect->remove(VanillaEffects::LEVITATION());
+            $player->resetFallDistance();
             unset($this->onHangGliderPlayer[$playerName]);
         }
     }
